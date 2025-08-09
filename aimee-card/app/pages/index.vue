@@ -5,7 +5,7 @@
       <h1 class="text-3xl font-bold text-center text-purple-600 mb-6">
         🎉 Welcome Aimée
       </h1>
-      <p class="text-center text-gray-700 mb-8">Choose an occaision:</p>
+      <p class="text-center text-gray-700 mb-8">Choose an occasion:</p>
 
       <div class="flex flex-col gap-4">
         <NuxtLink

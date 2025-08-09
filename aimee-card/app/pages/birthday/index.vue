@@ -9,7 +9,7 @@ definePageMeta({
     class="min-h-(--full-height-page) flex items-center justify-center bg-gradient-to-br from-pink-200 via-purple-200 to-purple-300 p-6">
     <div class="bg-white rounded-2xl shadow-xl p-8 w-full max-w-md">
       <h1 class="text-3xl font-bold text-center text-purple-600 mb-6">
-        🎉 Welcome 🎄
+        🎂 Birthdays
       </h1>
       <p class="text-center text-gray-700 mb-8">Choose a card to open:</p>
 
