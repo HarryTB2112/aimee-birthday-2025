@@ -1,0 +1,5 @@
+@import 'tailwindcss';
+
+:root {
+  --full-height-page: calc(100vh - 72px);
+}
