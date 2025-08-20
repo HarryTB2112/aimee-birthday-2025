@@ -13,7 +13,7 @@ const gifts = ref<Gift[]>([
     link: 'https://www.ticketmaster.co.uk/joy-crookes-tickets/artist/2280427#about',
   },
   {
-    name: 'Flowers 🌻',
+    name: 'Wine 🍾',
   },
   {
     name: 'Find out in Leeds...',
